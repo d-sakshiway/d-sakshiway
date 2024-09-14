@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Sakshi Verma.
-- 🌱 I’m currently learning C++, Python (intermediate)
+- 🌱 I’m currently learning C++, Python (intermediate), WEB3 (beginner)
 - 📫 How to reach me : https://in.linkedin.com/in/sakshi-verma-947022268
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am still an old-school kinda writer, prefer to use pen & paper instead of digital journaling; all while being an enthusiastic programmer! 😁
