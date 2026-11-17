@@ -19,8 +19,8 @@ Python, Pandas, scikit-learn, PyTorch, Flask, FastAPI, SQL, Git
 ## Find me
 [LinkedIn](https://www.linkedin.com/in/d-sakshiway/) | [X](https://x.com/d_sakshiway) | sakshisdesk@gmail.com
 
-Pronouns: she/her
-Fun fact: if sarcasm were a coding language, my GitHub would be full of it.
+- Pronouns: she/her
+- Fun fact: if sarcasm were a coding language, my GitHub would be full of it.
 
 
 <!---
